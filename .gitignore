@@ -163,4 +163,4 @@ cython_debug/
 # Not allowed redistribution
 # There are some useful functions that we can use
 02450Toolbox_Python
-test.py
+*.py
