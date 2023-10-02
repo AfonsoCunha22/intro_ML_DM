@@ -3,14 +3,13 @@
 ## Repository Structure
 
 ```bash
-.
-|-- README.md
 |-- dataset
-|   `-- dataset-spotify-2023.csv
-|-- requirements.txt
-|-- src
-|   `-- main.py
-`-- test.ipynb
+|-- figures
+|-- .gitignore
+|-- analysis.ipynb
+|-- model.ipynb
+|-- README.md
+`-- requirements.txt
 ```
 
 ## Notes
